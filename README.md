@@ -1,2 +1,2 @@
 # MERN
-This repo contains material related to MERN development
+This repo contains materials related to MERN development
